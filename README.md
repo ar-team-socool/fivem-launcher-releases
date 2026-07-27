@@ -1,11 +1,16 @@
-# FiveM Launcher — Releases
+# AR Launcher — Releases
 
-Official **download & auto-update channel** for the FiveM Launcher desktop app.
-ช่องทางดาวน์โหลด + อัปเดตอัตโนมัติ (อย่างเป็นทางการ) ของ FiveM Launcher
+Official **download & auto-update channel** for **AR Launcher** — AR Team's companion launcher for
+connecting to their FiveM server.
+ช่องทางดาวน์โหลด + อัปเดตอัตโนมัติ (อย่างเป็นทางการของ AR Team) สำหรับ AR Launcher — ตัวช่วยเชื่อมต่อเข้าเซิร์ฟเวอร์ FiveM ของ AR Team
+
+> **Not affiliated with Cfx.re or the official FiveM client.** This is an independent, third-party
+> launcher made by AR Team for their own server.
+> _ไม่เกี่ยวข้องกับ Cfx.re หรือ FiveM อย่างเป็นทางการ — เป็น launcher อิสระของ AR Team สำหรับเซิร์ฟเวอร์ของตนเอง_
 
 ## What is this repo?
 
-The FiveM Launcher's **release channel** — not its source. Every release attaches:
+AR Launcher's **release channel** — not its source. Every release attaches:
 
 - the Windows **installer** — `*-setup.exe` (NSIS), and
 - the auto-update manifests — `latest.yml` + `*.blockmap` (consumed by electron-updater in-app).
@@ -17,7 +22,7 @@ lives here** — please don't push source to this repo.
 
 1. Download the latest **`*-setup.exe`** from the **[Releases](../../releases)** page.
 2. Run it — it installs **per-user**, so **no administrator rights are required**.
-3. Open the launcher; from then on it **keeps itself up to date** from this channel.
+3. Open AR Launcher; from then on it **keeps itself up to date** from this channel.
 
 ### Requirements
 
@@ -25,7 +30,7 @@ lives here** — please don't push source to this repo.
 - **Steam** installed, signed in, and **running**.
 - **GTA V** and **FiveM** installed.
 
-> Tip: run the launcher and FiveM at the **same privilege level** (both as a normal user) so the
+> Tip: run AR Launcher and FiveM at the **same privilege level** (both as a normal user) so the
 > launcher can pair with the game correctly.
 
 ## License
