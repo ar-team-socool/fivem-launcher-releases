@@ -3,14 +3,6 @@
 Official **download & auto-update channel** for the FiveM Launcher desktop app.
 ช่องทางดาวน์โหลด + อัปเดตอัตโนมัติ (อย่างเป็นทางการ) ของ FiveM Launcher
 
-> ## ⚠️ Work in progress — no public build yet
->
-> The launcher is still in active development. **No installer has been published here yet** and
-> auto-update is not live — this channel opens once the first version ships. Not for production use.
->
-> **ภาษาไทย:** โปรเจกต์ยังพัฒนาอยู่ — **ยังไม่มีไฟล์ติดตั้งให้ดาวน์โหลด** และระบบอัปเดตอัตโนมัติยังไม่เปิด
-> ช่องทางนี้จะเริ่มใช้งานเมื่อปล่อยเวอร์ชันแรก ยังไม่ควรนำไปใช้งานจริง
-
 ## What is this repo?
 
 The FiveM Launcher's **release channel** — not its source. Every release attaches:
@@ -21,7 +13,7 @@ The FiveM Launcher's **release channel** — not its source. Every release attac
 Builds are published **automatically by CI** from the main, private repository. **No source code
 lives here** — please don't push source to this repo.
 
-## Install (once a build is available)
+## Install
 
 1. Download the latest **`*-setup.exe`** from the **[Releases](../../releases)** page.
 2. Run it — it installs **per-user**, so **no administrator rights are required**.
