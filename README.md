@@ -39,8 +39,6 @@
 > made by AR Team for their own server.
 > <br>**ไม่เกี่ยวข้องกับ Cfx.re หรือ FiveM อย่างเป็นทางการ** — เป็นโปรแกรมอิสระที่ AR Team ทำขึ้นใช้กับเซิร์ฟเวอร์ของตัวเอง
 
----
-
 ## English
 
 ### Requirements
@@ -84,8 +82,6 @@ out of a game.**
 ### Support
 
 Ask AR Team, and bring the version number shown beside the logo at the top of the launcher.
-
----
 
 ## ภาษาไทย
 
