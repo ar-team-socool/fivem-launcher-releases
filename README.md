@@ -1,69 +1,138 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
+  <img src="assets/logo-black.png" alt="AR Launcher" width="88">
+</picture>
+
 # AR Launcher
 
-AR Team's companion launcher for connecting to their FiveM server — this is the official download
-and auto-update channel.
+**The official download and auto-update channel**<br>
+ช่องทางดาวน์โหลดและอัปเดตอัตโนมัติอย่างเป็นทางการ
 
-ตัวช่วยเชื่อมต่อเข้าเซิร์ฟเวอร์ FiveM ของ AR Team — ที่นี่คือช่องทางดาวน์โหลดและอัปเดตอัตโนมัติอย่างเป็นทางการ
+<br>
 
-> **Not affiliated with Cfx.re or the official FiveM client.** An independent launcher made by
-> AR Team for their own server.
->
-> **ไม่เกี่ยวข้องกับ Cfx.re หรือ FiveM อย่างเป็นทางการ** — เป็นโปรแกรมอิสระที่ AR Team ทำขึ้นใช้กับเซิร์ฟเวอร์ของตัวเอง
+[![Latest release](https://img.shields.io/github/v/release/ar-team-socool/fivem-launcher-releases?style=for-the-badge&label=latest&labelColor=0d1117&color=2f81f7)](https://github.com/ar-team-socool/fivem-launcher-releases/releases/latest) [![Windows 10 or 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0d1117?style=for-the-badge)](#requirements) [![Downloads](https://img.shields.io/github/downloads/ar-team-socool/fivem-launcher-releases/total?style=for-the-badge&label=downloads&labelColor=0d1117&color=3fb950)](https://github.com/ar-team-socool/fivem-launcher-releases/releases)
 
-## ⬇︎ [Download AR-Launcher-Setup.exe](https://github.com/ar-team-socool/fivem-launcher-releases/releases/latest/download/AR-Launcher-Setup.exe)
+<br>
 
-Always the newest version. Save the link or share it — it never goes out of date.
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-2f81f7?style=for-the-badge)](https://github.com/ar-team-socool/fivem-launcher-releases/releases/latest/download/AR-Launcher-Setup.exe)
 
-ชี้ไปที่รุ่นล่าสุดเสมอ บันทึกลิงก์ไว้หรือส่งต่อได้เลย ไม่มีวันเก่า
+**AR-Launcher-Setup.exe** — always the newest version. Save the link, share it; it never goes out of date.<br>
+<sub>ลิงก์นี้ชี้ไปที่รุ่นล่าสุดเสมอ บันทึกไว้หรือส่งต่อได้เลย ไม่มีวันเก่า</sub>
 
-**[English](#english) · [ภาษาไทย](#ภาษาไทย)**
+<br>
+
+**[English](#english)** · **[ภาษาไทย](#ภาษาไทย)**
+
+</div>
+
+> [!IMPORTANT]
+> **Download only from this page.** A copy from anywhere else is not ours, and we cannot vouch for
+> what is inside it.
+> <br>**ดาวน์โหลดจากหน้านี้เท่านั้น** ไฟล์จากที่อื่นไม่ใช่ของเรา และเรารับรองสิ่งที่อยู่ข้างในไม่ได้
+
+> [!NOTE]
+> **Not affiliated with Cfx.re or the official FiveM client.** AR Launcher is an independent program
+> made by AR Team for their own server.
+> <br>**ไม่เกี่ยวข้องกับ Cfx.re หรือ FiveM อย่างเป็นทางการ** — เป็นโปรแกรมอิสระที่ AR Team ทำขึ้นใช้กับเซิร์ฟเวอร์ของตัวเอง
 
 ---
 
 ## English
 
-**Before you install**
+### Requirements
 
-- Windows 10 or 11
-- Steam installed and signed in
-- GTA V and FiveM installed, and opened at least once
+|            |                                                     |
+| ---------- | --------------------------------------------------- |
+| **System** | Windows 10 or 11                                    |
+| **Steam**  | Installed, and signed in                            |
+| **Game**   | GTA V and FiveM installed, and opened at least once |
 
-**Installing.** Run the file you downloaded. It does not ask for administrator rights. After that
-the launcher updates itself — there is no need to come back here.
+### Installing
 
-**If Windows says "Windows protected your PC".** That appears because this installer is new to
-Windows, not because anything is wrong with it. Choose **More info → Run anyway** — but only if you
-downloaded it from this page. A copy from anywhere else is not ours; delete it and download it here.
+Run the file you downloaded. It does not ask for administrator rights. After that the launcher keeps
+itself up to date — there is no need to come back here.
 
-**Updates** happen on their own, in the background, and only the changed part is downloaded. If a
-version is required in order to play, the launcher updates before letting you in — and if that
-happens while you are already in a game, you finish your session first. An update never drops you.
+<details>
+<summary><b>If Windows says “Windows protected your PC”</b></summary>
 
-**To uninstall:** Settings → Apps → Installed apps → AR Launcher.
+<br>
 
-**Trouble?** Ask AR Team — bring the version number shown beside the logo at the top of the launcher.
+That message appears because this installer is new to Windows, not because anything is wrong with
+it. Choose **More info → Run anyway**.
+
+Only do that if you downloaded the file from this page. If it came from anywhere else, delete it and
+download it here instead.
+
+</details>
+
+### Updates
+
+Updates install themselves, in the background, and only the part that changed is downloaded.
+
+If a version is required in order to play, the launcher updates before letting you in. If that
+happens while you are already in a game, you finish your session first — **an update never drops you
+out of a game.**
+
+### Uninstalling
+
+**Settings → Apps → Installed apps → AR Launcher.**
+
+### Support
+
+Ask AR Team, and bring the version number shown beside the logo at the top of the launcher.
 
 ---
 
 ## ภาษาไทย
 
-**ก่อนติดตั้ง**
+### สิ่งที่ต้องมี
 
-- Windows 10 หรือ 11
-- ติดตั้ง Steam และล็อกอินค้างไว้
-- ติดตั้ง GTA V และ FiveM แล้ว และเคยเปิดอย่างน้อยหนึ่งครั้ง
+|            |                                                            |
+| ---------- | ---------------------------------------------------------- |
+| **ระบบ**   | Windows 10 หรือ 11                                         |
+| **Steam**  | ติดตั้งแล้วและล็อกอินค้างไว้                               |
+| **เกม**    | ติดตั้ง GTA V และ FiveM แล้ว และเคยเปิดอย่างน้อยหนึ่งครั้ง |
 
-**การติดตั้ง** เปิดไฟล์ที่ดาวน์โหลดมาได้เลย ไม่ต้องใช้สิทธิ์ผู้ดูแลระบบ หลังจากนั้นตัวโปรแกรมจะอัปเดตเอง ไม่ต้องกลับมาโหลดใหม่อีก
+### การติดตั้ง
 
-**ถ้า Windows ขึ้นว่า "Windows protected your PC"** ที่ขึ้นเพราะไฟล์นี้ยังใหม่สำหรับ Windows ไม่ใช่เพราะไฟล์มีปัญหา กด **More info → Run anyway** ได้ **แต่เฉพาะกรณีที่โหลดมาจากหน้านี้** ถ้าได้ไฟล์มาจากที่อื่นแปลว่าไม่ใช่ของเรา ให้ลบทิ้งแล้วมาโหลดใหม่ที่นี่
+เปิดไฟล์ที่ดาวน์โหลดมาได้เลย ไม่ต้องใช้สิทธิ์ผู้ดูแลระบบ หลังจากนั้นตัวโปรแกรมจะอัปเดตตัวเองต่อไป ไม่ต้องกลับมาโหลดใหม่อีก
 
-**การอัปเดต** ทำงานเองอยู่เบื้องหลัง และโหลดเฉพาะส่วนที่เปลี่ยน ถ้ารุ่นไหนถูกกำหนดว่าต้องใช้เพื่อเข้าเล่น ตัวโปรแกรมจะอัปเดตให้ก่อนปล่อยเข้า และถ้าเกิดขึ้นตอนคุณอยู่ในเกมแล้ว คุณจะได้เล่นต่อจนจบก่อน การอัปเดตจะไม่เตะคุณออกจากเกม
+<details>
+<summary><b>ถ้า Windows ขึ้นว่า “Windows protected your PC”</b></summary>
 
-**ถอนการติดตั้ง** ที่ Settings → Apps → Installed apps → AR Launcher
+<br>
 
-**มีปัญหา?** ทักทีมงาน AR Team พร้อมแจ้งเลขเวอร์ชันที่แสดงอยู่ข้างโลโก้ด้านบนของตัวโปรแกรม
+ข้อความนี้ขึ้นเพราะไฟล์ติดตั้งยังใหม่สำหรับ Windows ไม่ใช่เพราะไฟล์มีปัญหา กด **More info → Run anyway** ได้เลย
+
+ทำแบบนั้นเฉพาะกรณีที่โหลดไฟล์มาจากหน้านี้ ถ้าได้มาจากที่อื่นให้ลบทิ้งแล้วมาโหลดใหม่ที่นี่
+
+</details>
+
+### การอัปเดต
+
+การอัปเดตติดตั้งตัวเองอยู่เบื้องหลัง และดาวน์โหลดเฉพาะส่วนที่เปลี่ยนเท่านั้น
+
+ถ้ารุ่นไหนถูกกำหนดว่าต้องใช้เพื่อเข้าเล่น ตัวโปรแกรมจะอัปเดตให้ก่อนปล่อยเข้า และถ้าเกิดขึ้นตอนที่คุณอยู่ในเกมแล้ว คุณจะได้เล่นต่อจนจบก่อน — **การอัปเดตจะไม่เตะคุณออกจากเกม**
+
+### การถอนการติดตั้ง
+
+**Settings → Apps → Installed apps → AR Launcher**
+
+### ติดต่อ
+
+ทักทีมงาน AR Team พร้อมแจ้งเลขเวอร์ชันที่แสดงอยู่ข้างโลโก้ด้านบนของตัวโปรแกรม
 
 ---
 
-<sub>This repository distributes the installer only — no source code. Proprietary, © AR Team, all
-rights reserved. · รีโปนี้ใช้แจกไฟล์ติดตั้งเท่านั้น ไม่มีซอร์สโค้ด — สงวนลิขสิทธิ์</sub>
+<div align="center">
+<sub>
+
+This repository distributes the installer only — no source code.<br>
+รีโปนี้ใช้แจกไฟล์ติดตั้งเท่านั้น ไม่มีซอร์สโค้ด
+
+**© AR Team** · All rights reserved · สงวนลิขสิทธิ์
+
+</sub>
+</div>
