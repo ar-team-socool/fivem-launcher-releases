@@ -1,11 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
-  <img src="assets/logo-black.png" alt="AR Launcher" width="88">
-</picture>
-
-# AR Launcher
+<h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
+    <img src="assets/logo-black.png" alt="" width="104">
+  </picture>
+  <br>AR&nbsp;Launcher
+</h3>
 
 **The official download and auto-update channel**<br>
 ช่องทางดาวน์โหลดและอัปเดตอัตโนมัติอย่างเป็นทางการ
@@ -18,7 +19,8 @@
 
 [![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-2f81f7?style=for-the-badge)](https://github.com/ar-team-socool/fivem-launcher-releases/releases/latest/download/AR-Launcher-Setup.exe)
 
-**AR-Launcher-Setup.exe** — always the newest version. Save the link, share it; it never goes out of date.<br>
+**AR-Launcher-Setup.exe** — always the newest version. Save the link, share it; it never goes out of date.
+
 <sub>ลิงก์นี้ชี้ไปที่รุ่นล่าสุดเสมอ บันทึกไว้หรือส่งต่อได้เลย ไม่มีวันเก่า</sub>
 
 <br>
@@ -127,12 +129,11 @@ Ask AR Team, and bring the version number shown beside the logo at the top of th
 ---
 
 <div align="center">
-<sub>
 
-This repository distributes the installer only — no source code.<br>
-รีโปนี้ใช้แจกไฟล์ติดตั้งเท่านั้น ไม่มีซอร์สโค้ด
+<sub>This repository distributes the installer only — no source code.</sub>
 
-**© AR Team** · All rights reserved · สงวนลิขสิทธิ์
+<sub>รีโปนี้ใช้แจกไฟล์ติดตั้งเท่านั้น ไม่มีซอร์สโค้ด</sub>
 
-</sub>
+<sub>**© AR Team** · All rights reserved · สงวนลิขสิทธิ์</sub>
+
 </div>
