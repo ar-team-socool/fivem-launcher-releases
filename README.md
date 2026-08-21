@@ -51,8 +51,8 @@
 
 ### Installing
 
-Run the file you downloaded. It does not ask for administrator rights. After that the launcher keeps
-itself up to date — there is no need to come back here.
+Run the file you downloaded. **Installing does not ask for administrator rights.** After that the
+launcher keeps itself up to date — there is no need to come back here.
 
 <details>
 <summary><b>If Windows says “Windows protected your PC”</b></summary>
@@ -64,6 +64,46 @@ it. Choose **More info → Run anyway**.
 
 Only do that if you downloaded the file from this page. If it came from anywhere else, delete it and
 download it here instead.
+
+</details>
+
+### Administrator rights
+
+**The launcher asks for permission every time it opens.** Windows shows its usual prompt; choose
+**Yes**.
+
+It asks because the anti-cheat that protects the servers has to run with those rights, and it takes
+them from the launcher — it cannot ask for itself. **The game does not get them**: FiveM is started
+the ordinary way, exactly as it would be if you opened it yourself.
+
+<details>
+<summary><b>A second prompt when you sign in with Steam</b></summary>
+
+<br>
+
+Signing in opens your browser. When it finishes, that page tries to bring the launcher back to the
+front for you — which, because of the rights above, can mean one more permission prompt.
+
+**Answering No costs you nothing.** You are already signed in by then; the launcher just stays behind
+your browser until you switch to it yourself.
+
+</details>
+
+<details>
+<summary><b>If the launcher says the anti-cheat is not running</b></summary>
+
+<br>
+
+That window tells you which of two things happened, and they need different repairs.
+
+If it **names a file**, your antivirus is holding it: allow that one file, then press Try again in
+the same window.
+
+If it says the file is **not there at all**, install the launcher again from the button at the top of
+this page — that puts it back.
+
+Either way, send AR Team a screenshot of that window if you are unsure. Do not turn your antivirus
+off.
 
 </details>
 
@@ -95,7 +135,7 @@ Ask AR Team, and bring the version number shown beside the logo at the top of th
 
 ### การติดตั้ง
 
-เปิดไฟล์ที่ดาวน์โหลดมาได้เลย ไม่ต้องใช้สิทธิ์ผู้ดูแลระบบ หลังจากนั้นตัวโปรแกรมจะอัปเดตตัวเองต่อไป ไม่ต้องกลับมาโหลดใหม่อีก
+เปิดไฟล์ที่ดาวน์โหลดมาได้เลย **ขั้นตอนติดตั้งไม่ต้องใช้สิทธิ์ผู้ดูแลระบบ** หลังจากนั้นตัวโปรแกรมจะอัปเดตตัวเองต่อไป ไม่ต้องกลับมาโหลดใหม่อีก
 
 <details>
 <summary><b>ถ้า Windows ขึ้นว่า “Windows protected your PC”</b></summary>
@@ -105,6 +145,42 @@ Ask AR Team, and bring the version number shown beside the logo at the top of th
 ข้อความนี้ขึ้นเพราะไฟล์ติดตั้งยังใหม่สำหรับ Windows ไม่ใช่เพราะไฟล์มีปัญหา กด **More info → Run anyway** ได้เลย
 
 ทำแบบนั้นเฉพาะกรณีที่โหลดไฟล์มาจากหน้านี้ ถ้าได้มาจากที่อื่นให้ลบทิ้งแล้วมาโหลดใหม่ที่นี่
+
+</details>
+
+### สิทธิ์ผู้ดูแลระบบ
+
+**ตัวโปรแกรมจะขออนุญาตทุกครั้งที่เปิด** Windows จะขึ้นหน้าต่างขอสิทธิ์ตามปกติ กด **Yes** ได้เลย
+
+ที่ต้องขอเพราะระบบแอนตี้ชีตที่ปกป้องเซิร์ฟเวอร์ต้องทำงานด้วยสิทธิ์นั้น และรับต่อมาจากตัวโปรแกรม — มันขอเองไม่ได้
+· **ตัวเกมไม่ได้รับสิทธิ์นั้น** FiveM ถูกเปิดตามปกติ เหมือนกับที่คุณเปิดเองทุกประการ
+
+<details>
+<summary><b>หน้าต่างขอสิทธิ์รอบที่สอง ตอนล็อกอิน Steam</b></summary>
+
+<br>
+
+การล็อกอินจะเปิดเบราว์เซอร์ให้ พอเสร็จแล้วหน้าเว็บนั้นจะพยายามดึงหน้าต่างโปรแกรมกลับขึ้นมาข้างหน้าให้ —
+ซึ่งด้วยเหตุผลข้างบน อาจมีหน้าต่างขอสิทธิ์ขึ้นมาอีกรอบหนึ่ง
+
+**กด No ก็ไม่เสียอะไร** ตอนนั้นคุณล็อกอินสำเร็จไปแล้ว เพียงแต่หน้าต่างโปรแกรมจะยังอยู่หลังเบราว์เซอร์
+จนกว่าคุณจะสลับไปเอง
+
+</details>
+
+<details>
+<summary><b>ถ้าตัวโปรแกรมบอกว่าระบบแอนตี้ชีตไม่ทำงาน</b></summary>
+
+<br>
+
+หน้าต่างนั้นจะบอกว่าเป็นกรณีไหนในสองกรณี ซึ่งวิธีแก้ต่างกัน
+
+ถ้ามัน **บอกชื่อไฟล์มาด้วย** แปลว่าแอนตี้ไวรัสกำลังกันไฟล์นั้นอยู่ — อนุญาตไฟล์นั้นไฟล์เดียว แล้วกด **ลองอีกครั้ง**
+ในหน้าต่างเดิม
+
+ถ้ามันบอกว่า **ไม่มีไฟล์นั้นอยู่เลย** ให้ติดตั้งลันเชอร์ใหม่จากปุ่มด้านบนของหน้านี้ ไฟล์จะกลับมาเอง
+
+ไม่ว่ากรณีไหน ถ้าไม่แน่ใจให้ถ่ายหน้าจอหน้าต่างนั้นส่งให้ทีมงาน AR Team และอย่าปิดแอนตี้ไวรัสทิ้ง
 
 </details>
 
