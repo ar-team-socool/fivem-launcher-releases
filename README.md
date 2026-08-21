@@ -51,8 +51,32 @@
 
 ### Installing
 
-Run the file you downloaded. **Installing does not ask for administrator rights.** After that the
-launcher keeps itself up to date — there is no need to come back here.
+Run the file you downloaded. **Installing does not ask for administrator rights.**
+
+1. Windows shows **“Open File - Security Warning”**. Press **Run**. Every program downloaded with a
+   browser gets this window; it is not about this file in particular.
+2. The setup window asks **“Who should this application be installed for?”** — choose **Only for
+   me**. The other option installs it for everyone on the computer and needs administrator rights
+   of its own.
+3. When it finishes it starts the launcher, and Windows asks for permission. Press **Yes** — see
+   **Administrator rights** just below.
+
+After that the launcher keeps itself up to date — there is no need to come back here.
+
+<details>
+<summary><b>If nothing happens when you double-click the file</b></summary>
+
+<br>
+
+Two very different things look the same here, and neither is a broken download.
+
+**The download may not have finished.** Until your browser says it has, the file is not on your disk
+under that name yet, and clicking where it will be does nothing. Wait, then try again.
+
+**The warning window may be behind something else.** It does not always come to the front. Look
+along your taskbar for a second window before clicking again — starting it twice does not help.
+
+</details>
 
 <details>
 <summary><b>If Windows says “Windows protected your PC”</b></summary>
@@ -71,6 +95,9 @@ download it here instead.
 
 **The launcher asks for permission every time it opens.** Windows shows its usual prompt; choose
 **Yes**.
+
+If you press **No**, the launcher does not open — no message, no window, nothing at all. So if
+clicking the icon seems to do nothing, that prompt is the first thing to look for.
 
 It asks because the anti-cheat that protects the servers has to run with those rights, and it takes
 them from the launcher — it cannot ask for itself. **The game does not get them**: FiveM is started
@@ -135,7 +162,31 @@ Ask AR Team, and bring the version number shown beside the logo at the top of th
 
 ### การติดตั้ง
 
-เปิดไฟล์ที่ดาวน์โหลดมาได้เลย **ขั้นตอนติดตั้งไม่ต้องใช้สิทธิ์ผู้ดูแลระบบ** หลังจากนั้นตัวโปรแกรมจะอัปเดตตัวเองต่อไป ไม่ต้องกลับมาโหลดใหม่อีก
+เปิดไฟล์ที่ดาวน์โหลดมาได้เลย **ขั้นตอนติดตั้งไม่ต้องใช้สิทธิ์ผู้ดูแลระบบ**
+
+1. Windows จะขึ้นหน้าต่าง **“Open File - Security Warning”** กด **Run** ได้เลย ทุกโปรแกรมที่โหลดผ่านเบราว์เซอร์
+   จะเจอหน้าต่างนี้ ไม่ได้เกี่ยวกับไฟล์นี้เป็นการเฉพาะ
+2. หน้าต่างติดตั้งจะถามว่า **“Who should this application be installed for?”** ให้เลือก **Only for me**
+   อีกตัวเลือกหนึ่งคือติดตั้งให้ทุกคนในเครื่อง ซึ่งต้องใช้สิทธิ์ผู้ดูแลระบบเพิ่มอีกรอบ
+3. พอติดตั้งเสร็จมันจะเปิดตัวโปรแกรมให้ แล้ว Windows จะขอสิทธิ์ กด **Yes** — อ่านหัวข้อ
+   **สิทธิ์ผู้ดูแลระบบ** ถัดลงไปได้
+
+หลังจากนั้นตัวโปรแกรมจะอัปเดตตัวเองต่อไป ไม่ต้องกลับมาโหลดใหม่อีก
+
+<details>
+<summary><b>ถ้าดับเบิลคลิ๊กไฟล์แล้วไม่มีอะไรเกิดขึ้น</b></summary>
+
+<br>
+
+มีสองเรื่องที่หน้าตาเหมือนกันมาก และไม่ใช่ไฟล์เสียสักอย่าง
+
+**ไฟล์อาจยังโหลดไม่เสร็จ** ก่อนที่เบราว์เซอร์จะบอกว่าเสร็จ ไฟล์ยังไม่อยู่บนเครื่องในชื่อนั้น คลิ๊กตรงที่มันกำลังจะไปอยู่
+จึงไม่เกิดอะไรขึ้น รอให้เสร็จก่อนแล้วลองใหม่
+
+**หน้าต่างเตือนอาจอยู่หลังหน้าต่างอื่น** มันไม่ได้เด้งขึ้นมาข้างหน้าเสมอไป ลองไล่ดูที่แถบงานว่ามีหน้าต่างเพิ่มขึ้นมาไหม
+ก่อนจะกดซ้ำ — เปิดซ้ำสองรอบไม่ได้ช่วยอะไร
+
+</details>
 
 <details>
 <summary><b>ถ้า Windows ขึ้นว่า “Windows protected your PC”</b></summary>
@@ -151,6 +202,9 @@ Ask AR Team, and bring the version number shown beside the logo at the top of th
 ### สิทธิ์ผู้ดูแลระบบ
 
 **ตัวโปรแกรมจะขออนุญาตทุกครั้งที่เปิด** Windows จะขึ้นหน้าต่างขอสิทธิ์ตามปกติ กด **Yes** ได้เลย
+
+ถ้ากด **No** ตัวโปรแกรมจะไม่เปิด และจะไม่มีข้อความหรือหน้าต่างอะไรขึ้นมาเลย ดังนั้นถ้ากดไอคอนแล้วเหมือนไม่มีอะไรเกิดขึ้น
+ให้มองหาหน้าต่างขอสิทธิ์นี้เป็นอย่างแรก
 
 ที่ต้องขอเพราะระบบแอนตี้ชีตที่ปกป้องเซิร์ฟเวอร์ต้องทำงานด้วยสิทธิ์นั้น และรับต่อมาจากตัวโปรแกรม — มันขอเองไม่ได้
 · **ตัวเกมไม่ได้รับสิทธิ์นั้น** FiveM ถูกเปิดตามปกติ เหมือนกับที่คุณเปิดเองทุกประการ
