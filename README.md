@@ -30,9 +30,11 @@
 </div>
 
 > [!IMPORTANT]
-> **Download only from this page.** A copy from anywhere else is not ours, and we cannot vouch for
-> what is inside it.
-> <br>**ดาวน์โหลดจากหน้านี้เท่านั้น** ไฟล์จากที่อื่นไม่ใช่ของเรา และเรารับรองสิ่งที่อยู่ข้างในไม่ได้
+> **Download only from this page or from [ar-launcher.wip-town.com](https://ar-launcher.wip-town.com)** —
+> both give you the same file. A copy from anywhere else is not ours, and we cannot vouch for what
+> is inside it.
+> <br>**ดาวน์โหลดจากหน้านี้หรือ [ar-launcher.wip-town.com](https://ar-launcher.wip-town.com) เท่านั้น** — ทั้งสองที่ได้ไฟล์เดียวกัน
+> ไฟล์จากที่อื่นไม่ใช่ของเรา และเรารับรองสิ่งที่อยู่ข้างในไม่ได้
 
 > [!NOTE]
 > **Not affiliated with Cfx.re or the official FiveM client.** AR Launcher is an independent program
@@ -86,51 +88,58 @@ along your taskbar for a second window before clicking again — starting it twi
 That message appears because this installer is new to Windows, not because anything is wrong with
 it. Choose **More info → Run anyway**.
 
-Only do that if you downloaded the file from this page. If it came from anywhere else, delete it and
-download it here instead.
+Only do that if you downloaded the file from this page or from ar-launcher.wip-town.com. If it came
+from anywhere else, delete it and download it here instead.
 
 </details>
 
 ### Administrator rights
 
-**The launcher asks for permission every time it opens.** Windows shows its usual prompt; choose
-**Yes**.
+**Each time the launcher opens, Windows asks for permission.** Choose **Yes**.
 
-If you press **No**, the launcher does not open — no message, no window, nothing at all. So if
-clicking the icon seems to do nothing, that prompt is the first thing to look for.
+The prompt is for the anti-cheat, not for the launcher. The anti-cheat that protects the servers has
+to run with those rights, so the launcher starts a small helper that asks for them and runs the
+anti-cheat. **The launcher itself and the game do not get them**: FiveM is started the ordinary way,
+exactly as it would be if you opened it yourself.
 
-It asks because the anti-cheat that protects the servers has to run with those rights, and it takes
-them from the launcher — it cannot ask for itself. **The game does not get them**: FiveM is started
-the ordinary way, exactly as it would be if you opened it yourself.
+The prompt says the publisher is unknown. That is expected for this program — answer **Yes** only if
+you installed it from this page or from ar-launcher.wip-town.com.
 
-<details>
-<summary><b>A second prompt when you sign in with Steam</b></summary>
-
-<br>
-
-Signing in opens your browser. When it finishes, that page tries to bring the launcher back to the
-front for you — which, because of the rights above, can mean one more permission prompt.
-
-**Answering No costs you nothing.** You are already signed in by then; the launcher just stays behind
-your browser until you switch to it yourself.
-
-</details>
+If you press **No**, the launcher still opens and works, but the anti-cheat cannot start, and a
+server that checks for it will not let you in when you press **Connect**. The launcher says so; see
+just below.
 
 <details>
 <summary><b>If the launcher says the anti-cheat is not running</b></summary>
 
 <br>
 
-That window tells you which of two things happened, and they need different repairs.
+That window tells you which of three things happened, and each has its own repair.
 
-If it **names a file**, your antivirus is holding it: allow that one file, then press Try again in
-the same window.
+- **Your antivirus blocked it.** Open your antivirus's protection history — in Windows Security,
+  **Virus & threat protection → Protection history** — allow the most recent blocked item, then
+  press **Try again**.
+- **The file it needs is missing.** Install the launcher again from the button at the top of this
+  page — that puts it back.
+- **Windows has not given it permission.** If a Windows permission prompt is still waiting, press
+  **Yes** and try again. If there is none, close the launcher, open it again, and press **Yes** when
+  it asks.
 
-If it says the file is **not there at all**, install the launcher again from the button at the top of
-this page — that puts it back.
+If none of that helps, send AR Team a screenshot of that window. Do not turn your antivirus off.
 
-Either way, send AR Team a screenshot of that window if you are unsure. Do not turn your antivirus
-off.
+</details>
+
+<details>
+<summary><b>If the launcher closes your game</b></summary>
+
+<br>
+
+Some servers require the game to run in a pure mode, and only the launcher can start FiveM in it.
+If FiveM is started any other way after you press **Connect** — by hand, or from a shortcut — the
+launcher closes it and says why.
+
+Press **Connect** in the launcher again and let it open the game. If it keeps happening, restart your
+computer and try again, or contact AR Team.
 
 </details>
 
@@ -149,6 +158,9 @@ out of a game.**
 ### Support
 
 Ask AR Team, and bring the version number shown beside the logo at the top of the launcher.
+
+If the launcher says your account is suspended from AR Launcher, contact the staff of the server you
+play on.
 
 ## ภาษาไทย
 
@@ -195,46 +207,50 @@ Ask AR Team, and bring the version number shown beside the logo at the top of th
 
 ข้อความนี้ขึ้นเพราะไฟล์ติดตั้งยังใหม่สำหรับ Windows ไม่ใช่เพราะไฟล์มีปัญหา กด **More info → Run anyway** ได้เลย
 
-ทำแบบนั้นเฉพาะกรณีที่โหลดไฟล์มาจากหน้านี้ ถ้าได้มาจากที่อื่นให้ลบทิ้งแล้วมาโหลดใหม่ที่นี่
+ทำแบบนั้นเฉพาะกรณีที่โหลดไฟล์มาจากหน้านี้หรือ ar-launcher.wip-town.com ถ้าได้มาจากที่อื่นให้ลบทิ้งแล้วมาโหลดใหม่ที่นี่
 
 </details>
 
 ### สิทธิ์ผู้ดูแลระบบ
 
-**ตัวโปรแกรมจะขออนุญาตทุกครั้งที่เปิด** Windows จะขึ้นหน้าต่างขอสิทธิ์ตามปกติ กด **Yes** ได้เลย
+**ทุกครั้งที่เปิดตัวโปรแกรม Windows จะขึ้นหน้าต่างขออนุญาต** กด **Yes** ได้เลย
 
-ถ้ากด **No** ตัวโปรแกรมจะไม่เปิด และจะไม่มีข้อความหรือหน้าต่างอะไรขึ้นมาเลย ดังนั้นถ้ากดไอคอนแล้วเหมือนไม่มีอะไรเกิดขึ้น
-ให้มองหาหน้าต่างขอสิทธิ์นี้เป็นอย่างแรก
+หน้าต่างนี้ขอให้ระบบแอนตี้ชีต ไม่ได้ขอให้ตัวโปรแกรม — ระบบแอนตี้ชีตที่ปกป้องเซิร์ฟเวอร์ต้องทำงานด้วยสิทธิ์นั้น
+ตัวโปรแกรมจึงเปิดตัวช่วยเล็ก ๆ ที่ขอสิทธิ์แล้วเริ่มระบบแอนตี้ชีต · **ตัวโปรแกรมและตัวเกมไม่ได้รับสิทธิ์นั้น** FiveM
+ถูกเปิดตามปกติ เหมือนกับที่คุณเปิดเองทุกประการ
 
-ที่ต้องขอเพราะระบบแอนตี้ชีตที่ปกป้องเซิร์ฟเวอร์ต้องทำงานด้วยสิทธิ์นั้น และรับต่อมาจากตัวโปรแกรม — มันขอเองไม่ได้
-· **ตัวเกมไม่ได้รับสิทธิ์นั้น** FiveM ถูกเปิดตามปกติ เหมือนกับที่คุณเปิดเองทุกประการ
+หน้าต่างจะบอกว่าไม่ทราบชื่อผู้เผยแพร่ (unknown publisher) ซึ่งเป็นเรื่องปกติของโปรแกรมนี้ — กด **Yes**
+เฉพาะเมื่อติดตั้งมาจากหน้านี้หรือ ar-launcher.wip-town.com
 
-<details>
-<summary><b>หน้าต่างขอสิทธิ์รอบที่สอง ตอนล็อกอิน Steam</b></summary>
-
-<br>
-
-การล็อกอินจะเปิดเบราว์เซอร์ให้ พอเสร็จแล้วหน้าเว็บนั้นจะพยายามดึงหน้าต่างโปรแกรมกลับขึ้นมาข้างหน้าให้ —
-ซึ่งด้วยเหตุผลข้างบน อาจมีหน้าต่างขอสิทธิ์ขึ้นมาอีกรอบหนึ่ง
-
-**กด No ก็ไม่เสียอะไร** ตอนนั้นคุณล็อกอินสำเร็จไปแล้ว เพียงแต่หน้าต่างโปรแกรมจะยังอยู่หลังเบราว์เซอร์
-จนกว่าคุณจะสลับไปเอง
-
-</details>
+ถ้ากด **No** ตัวโปรแกรมยังเปิดและใช้งานได้ แต่ระบบแอนตี้ชีตจะเริ่มไม่ได้ และเซิร์ฟเวอร์ที่ตรวจระบบนี้จะไม่ให้เข้า
+ตอนกด **เชื่อมต่อ** ตัวโปรแกรมจะแจ้งเหตุผล — อ่านหัวข้อถัดไป
 
 <details>
 <summary><b>ถ้าตัวโปรแกรมบอกว่าระบบแอนตี้ชีตไม่ทำงาน</b></summary>
 
 <br>
 
-หน้าต่างนั้นจะบอกว่าเป็นกรณีไหนในสองกรณี ซึ่งวิธีแก้ต่างกัน
+หน้าต่างนั้นจะบอกว่าเป็นกรณีไหนในสามกรณี ซึ่งวิธีแก้ต่างกัน
 
-ถ้ามัน **บอกชื่อไฟล์มาด้วย** แปลว่าแอนตี้ไวรัสกำลังกันไฟล์นั้นอยู่ — อนุญาตไฟล์นั้นไฟล์เดียว แล้วกด **ลองอีกครั้ง**
-ในหน้าต่างเดิม
+- **แอนตี้ไวรัสบล็อกไว้** เปิดประวัติการป้องกันของแอนตี้ไวรัส — ใน Windows Security คือ
+  **Virus & threat protection → Protection history** — อนุญาตรายการล่าสุด แล้วกด **ลองอีกครั้ง**
+- **ไม่มีไฟล์ที่ต้องใช้** ให้ติดตั้งลันเชอร์ใหม่จากปุ่มด้านบนของหน้านี้ ไฟล์จะกลับมาเอง
+- **Windows ยังไม่ได้ให้สิทธิ์** ถ้ามีหน้าต่างขออนุญาตของ Windows ค้างอยู่ ให้กด **Yes** แล้วลองอีกครั้ง
+  ถ้าไม่มี ให้ปิดตัวโปรแกรมแล้วเปิดใหม่ แล้วกด **Yes** ตอนที่ถาม
 
-ถ้ามันบอกว่า **ไม่มีไฟล์นั้นอยู่เลย** ให้ติดตั้งลันเชอร์ใหม่จากปุ่มด้านบนของหน้านี้ ไฟล์จะกลับมาเอง
+ถ้ายังไม่ได้ ให้ถ่ายหน้าจอหน้าต่างนั้นส่งให้ทีมงาน AR Team และอย่าปิดแอนตี้ไวรัสทิ้ง
 
-ไม่ว่ากรณีไหน ถ้าไม่แน่ใจให้ถ่ายหน้าจอหน้าต่างนั้นส่งให้ทีมงาน AR Team และอย่าปิดแอนตี้ไวรัสทิ้ง
+</details>
+
+<details>
+<summary><b>ถ้าตัวโปรแกรมปิดเกมของคุณ</b></summary>
+
+<br>
+
+บางเซิร์ฟเวอร์กำหนดให้เกมต้องทำงานใน pure mode และมีแค่ตัวโปรแกรมที่เปิด FiveM ในโหมดนั้นได้
+ถ้าหลังกด **เชื่อมต่อ** แล้ว FiveM ถูกเปิดด้วยวิธีอื่น — เปิดเอง หรือเปิดจาก shortcut — ตัวโปรแกรมจะปิดเกมนั้นและบอกเหตุผล
+
+กด **เชื่อมต่อ** จากตัวโปรแกรมอีกครั้ง แล้วปล่อยให้มันเปิดเกมให้ ถ้ายังเกิดซ้ำ ให้รีสตาร์ทเครื่องแล้วลองใหม่ หรือแจ้งทีมงาน AR Team
 
 </details>
 
@@ -251,6 +267,8 @@ Ask AR Team, and bring the version number shown beside the logo at the top of th
 ### ติดต่อ
 
 ทักทีมงาน AR Team พร้อมแจ้งเลขเวอร์ชันที่แสดงอยู่ข้างโลโก้ด้านบนของตัวโปรแกรม
+
+ถ้าตัวโปรแกรมแจ้งว่าบัญชีถูกระงับไม่ให้ใช้ AR Launcher ให้ติดต่อผู้ดูแลเซิร์ฟเวอร์ที่คุณเล่นอยู่
 
 ---
 
