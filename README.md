@@ -137,12 +137,17 @@ If none of that helps, send AR Team a screenshot of the message. Do not turn you
 
 <br>
 
-Some servers require the game to run in pure mode, and only the launcher can start FiveM that way.
-If FiveM is started any other way after you press **Connect** (by yourself, or from a shortcut), the
-launcher closes it and tells you why.
+Some servers require the game to run in pure mode, or FiveM to be on a particular update channel
+(Release, Beta or Latest), and the launcher sets both up when it opens the game. If FiveM is started
+any other way after you press **Connect** (by yourself, or from a shortcut), or is not on the server's
+channel, the launcher closes it and tells you why.
 
-Press **Connect** in the launcher again and let it open the game. If it keeps happening, restart your
-computer and try again, or contact AR Team.
+Press **Connect** in the launcher again and let it open the game. If FiveM is updating, let it
+finish. If it keeps happening, restart your computer and try again, or contact AR Team.
+
+If FiveM shows an error saying *"This application should be launched directly from the shell or a web
+browser"*, it has just switched to the update channel the server requires. Close FiveM's error window
+and press **Try again** in the launcher.
 
 </details>
 
@@ -241,9 +246,11 @@ play on.
 
 <br>
 
-บางเซิร์ฟเวอร์บังคับให้เกมทำงานใน pure mode และมีแค่ลันเชอร์ที่เปิด FiveM ในโหมดนี้ได้ ถ้ากด **เชื่อมต่อ** แล้ว FiveM ถูกเปิดด้วยวิธีอื่น เช่น เปิดเองหรือเปิดจาก shortcut ลันเชอร์จะปิดเกมนั้นและบอกสาเหตุ
+บางเซิร์ฟเวอร์บังคับให้เกมทำงานใน pure mode หรือให้ FiveM อยู่ในช่องอัปเดตที่กำหนด (Release, Beta หรือ Latest) ซึ่งลันเชอร์ตั้งให้ตอนเปิดเกม ถ้ากด **เชื่อมต่อ** แล้ว FiveM ถูกเปิดด้วยวิธีอื่น เช่น เปิดเองหรือเปิดจาก shortcut หรือไม่ได้อยู่ในช่องที่เซิร์ฟเวอร์กำหนด ลันเชอร์จะปิดเกมนั้นและบอกสาเหตุ
 
-ให้กด **เชื่อมต่อ** ในลันเชอร์อีกครั้ง แล้วรอให้ลันเชอร์เปิดเกมให้ ถ้ายังเกิดซ้ำ ให้รีสตาร์ทเครื่องแล้วลองใหม่ หรือแจ้งทีมงาน AR Team
+ให้กด **เชื่อมต่อ** ในลันเชอร์อีกครั้ง แล้วรอให้ลันเชอร์เปิดเกมให้ ถ้า FiveM กำลังอัปเดต ให้รอจนเสร็จ ถ้ายังเกิดซ้ำ ให้รีสตาร์ทเครื่องแล้วลองใหม่ หรือแจ้งทีมงาน AR Team
+
+ถ้า FiveM ขึ้น error ว่า *"This application should be launched directly from the shell or a web browser"* แปลว่า FiveM เพิ่งเปลี่ยนไปใช้ช่องอัปเดตที่เซิร์ฟเวอร์กำหนด ให้ปิดหน้าต่าง error ของ FiveM แล้วกด **ลองอีกครั้ง** ในลันเชอร์
 
 </details>
 
