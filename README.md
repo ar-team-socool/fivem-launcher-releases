@@ -133,6 +133,22 @@ If none of that helps, send AR Team a screenshot of the message. Do not turn you
 </details>
 
 <details>
+<summary><b>If the launcher says it could not join this server yet</b></summary>
+
+<br>
+
+The message tells you which of two problems it is:
+
+- **The launcher could not find FiveM.** Open FiveM yourself once, wait for its main screen, then
+  close it and press **Try again**. This also happens after FiveM's files were deleted or reset (for
+  example by a guide to clearing FiveM's cache), because FiveM only sets them up again when it opens.
+- **The launcher could not set the game up for this server.** If FiveM is still downloading or
+  updating, let it finish, then press **Try again**. If it still fails, send AR Team a screenshot of
+  the message.
+
+</details>
+
+<details>
 <summary><b>If the launcher closes your game</b></summary>
 
 <br>
@@ -238,6 +254,18 @@ play on.
 - **Windows ยังไม่ได้ให้สิทธิ์** ถ้ามีหน้าต่างขออนุญาตของ Windows ค้างอยู่ ให้กด **Yes** แล้วลองอีกครั้ง ถ้าไม่มี ให้ปิดลันเชอร์แล้วเปิดใหม่ แล้วกด **Yes** ตอนที่ Windows ถาม
 
 ถ้ายังไม่ได้ ให้ถ่ายหน้าจอหน้าต่างนั้นส่งให้ทีมงาน AR Team และอย่าปิดแอนตี้ไวรัส
+
+</details>
+
+<details>
+<summary><b>ถ้าลันเชอร์ขึ้นว่ายังเข้าเซิร์ฟเวอร์นี้ไม่ได้</b></summary>
+
+<br>
+
+ข้อความในหน้าต่างจะบอกว่าเป็นกรณีไหน
+
+- **ลันเชอร์หา FiveM ไม่เจอ** เปิด FiveM ด้วยตัวเองหนึ่งครั้ง รอจนถึงหน้าหลักแล้วปิด จากนั้นกด **ลองอีกครั้ง** กรณีนี้เกิดได้หลังลบหรือรีเซ็ตไฟล์ของ FiveM (เช่น ทำตามวิธีล้างแคช FiveM) เพราะ FiveM จะตั้งค่าไฟล์เหล่านั้นใหม่ตอนเปิดเท่านั้น
+- **ลันเชอร์ตั้งค่าเกมให้ตรงกับเซิร์ฟเวอร์นี้ไม่สำเร็จ** ถ้า FiveM ยังดาวน์โหลดหรืออัปเดตอยู่ ให้รอจนเสร็จแล้วกด **ลองอีกครั้ง** ถ้ายังไม่ได้ ให้ถ่ายหน้าจอหน้าต่างนั้นส่งให้ทีมงาน AR Team
 
 </details>
 
