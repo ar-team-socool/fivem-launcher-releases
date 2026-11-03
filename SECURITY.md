@@ -1,36 +1,6 @@
-# Security policy · นโยบายความปลอดภัย
+# นโยบายความปลอดภัย · Security policy
 
-**[English](#english)** · **[ภาษาไทย](#ภาษาไทย)**
-
-## English
-
-### Reporting a security problem
-
-If you find a security problem in AR Launcher, its anti-cheat, or [ar-launcher.wip-town.com](https://ar-launcher.wip-town.com), tell AR Team privately.
-
-**Do not post it in an issue, on Discord or anywhere public, and do not share it with other players.**
-
-- **On GitHub:** open the **Security** tab of this repository and press **Report a vulnerability**. Only AR Team and you can see the report.
-- **On Discord:** send a direct message to AR Team staff in the AR Team community Discord.
-
-Say what you found and how to make it happen again, and include the version number shown next to the logo at the top of the launcher.
-
-### Please do not
-
-- Use the problem to gain an advantage in a game. That is cheating under the [Terms of Use](TERMS.md).
-- Try it against other players or their accounts.
-- Look at, change or delete data that is not yours.
-
-### What happens next
-
-AR Team replies to the report and may ask for more detail. We do not publish how a problem worked or how it was fixed.
-
-Only the newest version of the launcher is supported. It updates itself, so check that you are on it before reporting.
-
-### Not a security problem?
-
-- For help installing or using the launcher, see the [README](README.md) and contact AR Team.
-- For a problem in a server's own game or scripts, contact the staff of that server.
+**[ภาษาไทย](#ภาษาไทย)** · **[English](#english)**
 
 ## ภาษาไทย
 
@@ -61,3 +31,33 @@ AR Team จะตอบกลับรายงาน และอาจขอ�
 
 - ถ้าต้องการความช่วยเหลือเรื่องการติดตั้งหรือการใช้ลันเชอร์ ดู [README](README.md) แล้วติดต่อทีมงาน AR Team
 - ถ้าเป็นปัญหาในเกมหรือสคริปต์ของเซิร์ฟเวอร์ ให้ติดต่อผู้ดูแลเซิร์ฟเวอร์นั้น
+
+## English
+
+### Reporting a security problem
+
+If you find a security problem in AR Launcher, its anti-cheat, or [ar-launcher.wip-town.com](https://ar-launcher.wip-town.com), tell AR Team privately.
+
+**Do not post it in an issue, on Discord or anywhere public, and do not share it with other players.**
+
+- **On GitHub:** open the **Security** tab of this repository and press **Report a vulnerability**. Only AR Team and you can see the report.
+- **On Discord:** send a direct message to AR Team staff in the AR Team community Discord.
+
+Say what you found and how to make it happen again, and include the version number shown next to the logo at the top of the launcher.
+
+### Please do not
+
+- Use the problem to gain an advantage in a game. That is cheating under the [Terms of Use](TERMS.md).
+- Try it against other players or their accounts.
+- Look at, change or delete data that is not yours.
+
+### What happens next
+
+AR Team replies to the report and may ask for more detail. We do not publish how a problem worked or how it was fixed.
+
+Only the newest version of the launcher is supported. It updates itself, so check that you are on it before reporting.
+
+### Not a security problem?
+
+- For help installing or using the launcher, see the [README](README.md) and contact AR Team.
+- For a problem in a server's own game or scripts, contact the staff of that server.
