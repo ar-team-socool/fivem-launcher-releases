@@ -28,6 +28,9 @@ share it.
 
 **[English](#english)** · **[ภาษาไทย](#ภาษาไทย)**
 
+<sub>[Terms of Use](TERMS.md) · [Privacy Notice](PRIVACY.md)</sub><br>
+<sub>[ข้อตกลงการใช้งาน](TERMS.md) · [นโยบายความเป็นส่วนตัว](PRIVACY.md)</sub>
+
 </div>
 
 > [!IMPORTANT]
