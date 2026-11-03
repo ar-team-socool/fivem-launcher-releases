@@ -10,7 +10,7 @@
 
 **อย่าโพสต์ใน issue, Discord หรือที่สาธารณะใด ๆ และอย่าบอกต่อผู้เล่นคนอื่น**
 
-- **ทาง GitHub:** เปิดแท็บ **Security** ของ repo นี้ แล้วกด **Report a vulnerability** รายงานจะเห็นได้เฉพาะ AR Team และคุณ
+- **ทาง GitHub:** กด [**Report a vulnerability**](https://github.com/ar-team-socool/fivem-launcher-releases/security/advisories/new) แล้วกรอกแบบฟอร์ม ต้องเข้าสู่ระบบ GitHub ก่อน รายงานจะเห็นได้เฉพาะ AR Team และคุณ
 - **ทาง Discord:** ส่งข้อความส่วนตัวถึงทีมงาน AR Team ใน Discord ของชุมชน AR Team
 
 บอกว่าพบอะไร และทำอย่างไรจึงเกิดซ้ำได้ พร้อมเลขเวอร์ชันที่อยู่ข้างโลโก้ด้านบนของลันเชอร์
@@ -40,7 +40,7 @@ If you find a security problem in AR Launcher, its anti-cheat, or [ar-launcher.w
 
 **Do not post it in an issue, on Discord or anywhere public, and do not share it with other players.**
 
-- **On GitHub:** open the **Security** tab of this repository and press **Report a vulnerability**. Only AR Team and you can see the report.
+- **On GitHub:** press [**Report a vulnerability**](https://github.com/ar-team-socool/fivem-launcher-releases/security/advisories/new) and fill in the form. You need to be signed in to GitHub. Only AR Team and you can see the report.
 - **On Discord:** send a direct message to AR Team staff in the AR Team community Discord.
 
 Say what you found and how to make it happen again, and include the version number shown next to the logo at the top of the launcher.
