@@ -114,7 +114,9 @@ The official download and auto-update channel
 
 - **แอนตี้ไวรัสบล็อกไว้** เข้าไปที่ประวัติการป้องกันของแอนตี้ไวรัส (ใน Windows Security คือ **Virus & threat protection → Protection history**) กดอนุญาตรายการล่าสุด แล้วกด **ลองอีกครั้ง**
 - **ไม่มีไฟล์ที่ต้องใช้** ติดตั้งลันเชอร์ใหม่จากปุ่มด้านบนของหน้านี้ แล้วไฟล์จะกลับมา
-- **Windows ยังไม่ได้ให้สิทธิ์** ถ้ามีหน้าต่างขออนุญาตของ Windows ค้างอยู่ ให้กด **Yes** แล้วลองอีกครั้ง ถ้าไม่มี ให้ปิดลันเชอร์แล้วเปิดใหม่ แล้วกด **Yes** ตอนที่ Windows ถาม
+- **Windows ยังไม่ได้ให้สิทธิ์** ถ้ามีหน้าต่างขออนุญาตของ Windows ค้างอยู่ (ดูไอคอนที่กะพริบบนแถบงาน) ให้กด **Yes** แล้วลองอีกครั้ง ถ้าไม่มี ให้ปิดลันเชอร์แล้วเปิดใหม่ แล้วกด **Yes** ตอนที่ Windows ถาม
+- **บัญชี Windows ไม่ใช่บัญชีผู้ดูแลระบบ** ใส่รหัสผ่านของบัญชีผู้ดูแลระบบ (Administrator) ของเครื่องนี้เมื่อ Windows ถาม แล้วกด **ลองอีกครั้ง** ถ้าไม่ทราบรหัสผ่าน ให้เข้าใช้งาน Windows ด้วยบัญชีผู้ดูแลระบบ หรือขอให้เจ้าของเครื่องช่วย
+- **เครื่องตั้งค่าไม่ให้บัญชีนี้ขอสิทธิ์** เข้าใช้งาน Windows ด้วยบัญชีผู้ดูแลระบบ (Administrator) ของเครื่องนี้ หรือขอให้เจ้าของเครื่องช่วย
 
 ถ้ายังไม่ได้ ให้ถ่ายหน้าจอหน้าต่างนั้นส่งให้ทีมงาน AR Team และอย่าปิดแอนตี้ไวรัส
 
@@ -239,16 +241,21 @@ for it will not let you in when you press **Connect**, and the launcher tells yo
 
 <br>
 
-The message tells you which of three problems it is, and each has its own fix:
+The message tells you which of five problems it is, and each has its own fix:
 
 - **Your antivirus blocked it.** Open your antivirus's protection history (in Windows Security:
   **Virus & threat protection → Protection history**), allow the most recent blocked item, then
   press **Try again**.
 - **A file it needs is missing.** Install the launcher again with the button at the top of this
   page. That puts the file back.
-- **Windows has not given it permission.** If a Windows permission window is still open, press
-  **Yes** and try again. If not, close the launcher, open it again, and press **Yes** when Windows
-  asks.
+- **Windows has not given it permission.** If a Windows permission window is still open (look for
+  the flashing icon on the taskbar), press **Yes** and try again. If not, close the launcher, open
+  it again, and press **Yes** when Windows asks.
+- **Your Windows account is not an administrator.** Enter the password of an administrator
+  account on this PC when Windows asks, then press **Try again**. If you do not know the password,
+  sign in to Windows with an administrator account, or ask the owner of this PC.
+- **This PC does not let your account ask for permission.** Sign in to Windows with an
+  administrator account on this PC, or ask the owner of this PC.
 
 If none of that helps, send AR Team a screenshot of the message. Do not turn your antivirus off.
 
