@@ -43,6 +43,11 @@ The official download and auto-update channel
 > <br>**Not affiliated with Cfx.re or FiveM.** AR Launcher is an independent program that AR Team makes
 > for its own servers.
 
+> [!TIP]
+> **คู่มือฉบับเต็มอยู่ที่ [AR Team Docs](https://ar-docs.wip-town.com/th/ar-launcher)** ทั้งการติดตั้ง การเข้าเล่น และวิธีแก้เมื่อเข้าเซิร์ฟเวอร์ไม่ได้
+> <br>**The full guide is on [AR Team Docs](https://ar-docs.wip-town.com/en/ar-launcher).** It covers
+> installing, joining a server, and what to do when you cannot join.
+
 ## ภาษาไทย
 
 ### สิ่งที่ต้องมี
@@ -151,6 +156,8 @@ The official download and auto-update channel
 **Settings → Apps → Installed apps → AR Launcher**
 
 ### ติดต่อทีมงาน
+
+ก่อนติดต่อ ลองหาหน้าต่างที่เจอใน[หน้าแก้ปัญหาของคู่มือ](https://ar-docs.wip-town.com/th/ar-launcher/troubleshooting) ถ้ายังไม่หาย ให้[ส่งไฟล์ log](https://ar-docs.wip-town.com/th/ar-launcher/send-log) ให้ทีมงานด้วย
 
 ติดต่อทีมงาน AR Team พร้อมแจ้งเลขเวอร์ชันที่อยู่ข้างโลโก้ด้านบนของลันเชอร์
 
@@ -294,6 +301,11 @@ already in a game, you keep playing: **an update never kicks you out of a game.*
 **Settings → Apps → Installed apps → AR Launcher.**
 
 ### Support
+
+Before you contact us, look for the message you saw on the
+[troubleshooting page of the guide](https://ar-docs.wip-town.com/en/ar-launcher/troubleshooting). If
+it does not help, [send your log files](https://ar-docs.wip-town.com/en/ar-launcher/send-log) to the
+team as well.
 
 Contact AR Team, and include the version number shown next to the logo at the top of the launcher.
 
