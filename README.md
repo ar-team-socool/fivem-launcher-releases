@@ -13,7 +13,7 @@ The official download and auto-update channel
 
 ---
 
-[![Latest release](https://img.shields.io/github/v/release/ar-team-socool/fivem-launcher-releases?style=for-the-badge&label=latest&labelColor=0d1117&color=2f81f7)](https://github.com/ar-team-socool/fivem-launcher-releases/releases/latest) [![Windows 10 or 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0d1117?style=for-the-badge)](#สิ่งที่ต้องมี) [![Downloads](https://img.shields.io/github/downloads/ar-team-socool/fivem-launcher-releases/total?style=for-the-badge&label=downloads&labelColor=0d1117&color=3fb950)](https://github.com/ar-team-socool/fivem-launcher-releases/releases)
+[![Latest release](https://img.shields.io/github/v/release/ar-team-socool/fivem-launcher-releases?style=for-the-badge&label=latest&labelColor=0d1117&color=2f81f7)](https://github.com/ar-team-socool/fivem-launcher-releases/releases/latest) [![Windows 10 or 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0d1117?style=for-the-badge)](https://ar-docs.wip-town.com/th/ar-launcher#requirements) [![Downloads](https://img.shields.io/github/downloads/ar-team-socool/fivem-launcher-releases/total?style=for-the-badge&label=downloads&labelColor=0d1117&color=3fb950)](https://github.com/ar-team-socool/fivem-launcher-releases/releases)
 
 <br>
 
@@ -43,281 +43,44 @@ The official download and auto-update channel
 > <br>**Not affiliated with Cfx.re or FiveM.** AR Launcher is an independent program that AR Team makes
 > for its own servers.
 
-> [!TIP]
-> **คู่มือฉบับเต็มอยู่ที่ [AR Team Docs](https://ar-docs.wip-town.com/th/ar-launcher)** ทั้งการติดตั้ง การเข้าเล่น และวิธีแก้เมื่อเข้าเซิร์ฟเวอร์ไม่ได้
-> <br>**The full guide is on [AR Team Docs](https://ar-docs.wip-town.com/en/ar-launcher).** It covers
-> installing, joining a server, and what to do when you cannot join.
-
 ## ภาษาไทย
 
-### สิ่งที่ต้องมี
+ใช้กับ Windows 10 หรือ 11 และต้องติดตั้ง GTA V, FiveM และ Steam ไว้ก่อน ดูรายละเอียดที่[สิ่งที่ต้องมี](https://ar-docs.wip-town.com/th/ar-launcher#requirements)
 
-|           |                                                       |
-| --------- | ----------------------------------------------------- |
-| **ระบบ**  | Windows 10 หรือ 11                                    |
-| **Steam** | เปิดและล็อกอินค้างไว้                                 |
-| **เกม**   | ติดตั้ง GTA V และ FiveM แล้ว และเคยเปิดอย่างน้อยหนึ่งครั้ง |
+### คู่มือ
 
-### การติดตั้ง
+คู่มือทั้งหมดอยู่ที่ [AR Team Docs](https://ar-docs.wip-town.com/th/ar-launcher)
 
-เปิดไฟล์ที่ดาวน์โหลดมาได้เลย **การติดตั้งไม่ต้องใช้สิทธิ์ผู้ดูแลระบบ**
-
-1. Windows จะขึ้นหน้าต่าง **“Open File - Security Warning”** ให้กด **Run** หน้าต่างนี้ขึ้นกับทุกโปรแกรมที่ดาวน์โหลดจากอินเทอร์เน็ต ไม่ได้ขึ้นเฉพาะไฟล์นี้
-2. ตัวติดตั้งจะถามว่า **“Who should this application be installed for?”** ให้ปล่อยไว้ที่ **Only for me** ตามที่ตั้งไว้ให้ อีกตัวเลือกคือติดตั้งให้ทุกบัญชีในเครื่อง ซึ่งต้องใช้สิทธิ์ผู้ดูแลระบบ
-3. ติดตั้งเสร็จแล้วลันเชอร์จะเปิดขึ้นมา และ Windows จะขออนุญาต ให้กด **Yes** (ดูหัวข้อ **สิทธิ์ผู้ดูแลระบบ** ด้านล่าง)
-
-### หลังติดตั้งเสร็จ
-
-- **ห้ามปิดลันเชอร์ระหว่างเล่น** ถ้าลันเชอร์ถูกปิด แครช หรือเน็ตหลุด เซิร์ฟเวอร์จะเตะคุณออกจากเกม
-- **เข้าเซิร์ฟเวอร์ด้วยปุ่มเชื่อมต่อในลันเชอร์** กด **เชื่อมต่อ** แล้วรอให้ลันเชอร์เปิดเกมให้ อย่าเปิด FiveM เอง
-- **ติดตั้งครั้งเดียวพอ** ลันเชอร์อัปเดตตัวเอง ไม่ต้องกลับมาดาวน์โหลดใหม่
-
-<details>
-<summary><b>ถ้าเปิดไฟล์แล้วไม่มีอะไรขึ้นมา</b></summary>
-
-<br>
-
-ไฟล์ไม่ได้เสีย ส่วนใหญ่เป็นหนึ่งในสองกรณีนี้
-
-- **ไฟล์ยังดาวน์โหลดไม่เสร็จ** รอให้เบราว์เซอร์ขึ้นว่าดาวน์โหลดเสร็จแล้ว แล้วค่อยเปิดอีกครั้ง
-- **หน้าต่างเตือนไปอยู่หลังหน้าต่างอื่น** ลองดูที่แถบงาน (taskbar) ก่อนเปิดไฟล์ซ้ำ เปิดซ้ำหลายรอบไม่ได้ช่วยอะไร
-
-</details>
-
-<details>
-<summary><b>ถ้า Windows ขึ้นหน้าจอ “Windows protected your PC”</b></summary>
-
-<br>
-
-หน้าจอนี้ขึ้นเพราะ Windows ยังไม่รู้จักไฟล์ติดตั้งตัวนี้ ไม่ใช่เพราะไฟล์มีปัญหา ให้กด **More info** แล้วกด **Run anyway**
-
-ทำแบบนี้เฉพาะไฟล์ที่ดาวน์โหลดจากหน้านี้หรือ ar-launcher.wip-town.com เท่านั้น ถ้าได้ไฟล์มาจากที่อื่น ให้ลบทิ้งแล้วดาวน์โหลดใหม่จากที่นี่
-
-</details>
-
-### สิทธิ์ผู้ดูแลระบบ
-
-**ทุกครั้งที่เปิดลันเชอร์ Windows จะขึ้นหน้าต่างขออนุญาต ให้กด Yes**
-
-สิทธิ์นี้มีไว้ให้ระบบแอนตี้ชีต ไม่ใช่ตัวลันเชอร์ ระบบแอนตี้ชีตที่ดูแลเซิร์ฟเวอร์ต้องใช้สิทธิ์ผู้ดูแลระบบ ลันเชอร์จึงเปิดตัวช่วยเล็ก ๆ ขึ้นมาขอสิทธิ์และเริ่มระบบแอนตี้ชีต **ตัวลันเชอร์และตัวเกมไม่ได้รับสิทธิ์นี้** FiveM ยังเปิดแบบปกติ เหมือนตอนที่คุณเปิดเอง
-
-หน้าต่างนี้จะแสดง **Publisher: Unknown** ซึ่งเป็นเรื่องปกติของโปรแกรมนี้ ให้กด **Yes** เฉพาะเมื่อติดตั้งมาจากหน้านี้หรือ ar-launcher.wip-town.com
-
-ถ้ากด **No** ลันเชอร์ยังเปิดได้ แต่ระบบแอนตี้ชีตจะไม่ทำงาน เซิร์ฟเวอร์ที่ตรวจระบบนี้จะไม่ให้เข้าเมื่อกด **เชื่อมต่อ** และลันเชอร์จะแจ้งสาเหตุ (ดูหัวข้อถัดไป)
-
-<details>
-<summary><b>ถ้าลันเชอร์ขึ้นว่าระบบแอนตี้ชีตไม่ทำงาน</b></summary>
-
-<br>
-
-ข้อความในหน้าต่างจะบอกว่าเป็นกรณีไหน และแต่ละกรณีแก้ต่างกัน
-
-- **แอนตี้ไวรัสบล็อกไว้** เข้าไปที่ประวัติการป้องกันของแอนตี้ไวรัส (ใน Windows Security คือ **Virus & threat protection → Protection history**) กดอนุญาตรายการล่าสุด แล้วกด **ลองอีกครั้ง**
-- **ไม่มีไฟล์ที่ต้องใช้** ติดตั้งลันเชอร์ใหม่จากปุ่มด้านบนของหน้านี้ แล้วไฟล์จะกลับมา
-- **Windows ยังไม่ได้ให้สิทธิ์** ถ้ามีหน้าต่างขออนุญาตของ Windows ค้างอยู่ (ดูไอคอนที่กะพริบบนแถบงาน) ให้กด **Yes** แล้วลองอีกครั้ง ถ้าไม่มี ให้ปิดลันเชอร์แล้วเปิดใหม่ แล้วกด **Yes** ตอนที่ Windows ถาม
-- **บัญชี Windows ไม่ใช่บัญชีผู้ดูแลระบบ** ใส่รหัสผ่านของบัญชีผู้ดูแลระบบ (Administrator) ของเครื่องนี้เมื่อ Windows ถาม แล้วกด **ลองอีกครั้ง** ถ้าไม่ทราบรหัสผ่าน ให้เข้าใช้งาน Windows ด้วยบัญชีผู้ดูแลระบบ หรือขอให้เจ้าของเครื่องช่วย
-- **เครื่องตั้งค่าไม่ให้บัญชีนี้ขอสิทธิ์** เข้าใช้งาน Windows ด้วยบัญชีผู้ดูแลระบบ (Administrator) ของเครื่องนี้ หรือขอให้เจ้าของเครื่องช่วย
-
-ถ้ายังไม่ได้ ให้ถ่ายหน้าจอหน้าต่างนั้นส่งให้ทีมงาน AR Team และอย่าปิดแอนตี้ไวรัส
-
-</details>
-
-<details>
-<summary><b>ถ้าลันเชอร์ขึ้นว่ายังเข้าเซิร์ฟเวอร์นี้ไม่ได้</b></summary>
-
-<br>
-
-ข้อความในหน้าต่างจะบอกว่าเป็นกรณีไหน
-
-- **ลันเชอร์หา FiveM ไม่เจอ** เปิด FiveM ด้วยตัวเองหนึ่งครั้ง รอจนถึงหน้าหลักแล้วปิด จากนั้นกด **ลองอีกครั้ง** กรณีนี้เกิดได้หลังลบหรือรีเซ็ตไฟล์ของ FiveM (เช่น ทำตามวิธีล้างแคช FiveM) เพราะ FiveM จะตั้งค่าไฟล์เหล่านั้นใหม่ตอนเปิดเท่านั้น
-- **ลันเชอร์ตั้งค่าเกมให้ตรงกับเซิร์ฟเวอร์นี้ไม่สำเร็จ** ถ้า FiveM ยังดาวน์โหลดหรืออัปเดตอยู่ ให้รอจนเสร็จแล้วกด **ลองอีกครั้ง** ถ้ายังไม่ได้ ให้ถ่ายหน้าจอหน้าต่างนั้นส่งให้ทีมงาน AR Team
-
-</details>
-
-<details>
-<summary><b>ถ้าลันเชอร์ปิดเกมของคุณ</b></summary>
-
-<br>
-
-บางเซิร์ฟเวอร์บังคับให้เกมทำงานใน pure mode หรือให้ FiveM อยู่ในช่องอัปเดตที่กำหนด (Release, Beta หรือ Latest) ซึ่งลันเชอร์ตั้งให้ตอนเปิดเกม ถ้ากด **เชื่อมต่อ** แล้ว FiveM ถูกเปิดด้วยวิธีอื่น เช่น เปิดเองหรือเปิดจาก shortcut หรือไม่ได้อยู่ในช่องที่เซิร์ฟเวอร์กำหนด ลันเชอร์จะปิดเกมนั้นและบอกสาเหตุ
-
-ให้กด **เชื่อมต่อ** ในลันเชอร์อีกครั้ง แล้วรอให้ลันเชอร์เปิดเกมให้ ถ้า FiveM กำลังอัปเดต ให้รอจนเสร็จ ถ้ายังเกิดซ้ำ ให้รีสตาร์ทเครื่องแล้วลองใหม่ หรือแจ้งทีมงาน AR Team
-
-ถ้า FiveM ขึ้น error ว่า *"This application should be launched directly from the shell or a web browser"* แปลว่า FiveM เพิ่งเปลี่ยนไปใช้ช่องอัปเดตที่เซิร์ฟเวอร์กำหนด ให้ปิดหน้าต่าง error ของ FiveM แล้วกด **ลองอีกครั้ง** ในลันเชอร์
-
-</details>
-
-### การอัปเดต
-
-ลันเชอร์อัปเดตตัวเองอยู่เบื้องหลัง และดาวน์โหลดเฉพาะส่วนที่เปลี่ยน
-
-ถ้าเวอร์ชันใหม่เป็นเวอร์ชันที่บังคับใช้ ลันเชอร์จะอัปเดตก่อนให้เข้าเล่น ส่วนคนที่อยู่ในเกมอยู่แล้วเล่นต่อได้ตามปกติ **การอัปเดตจะไม่เตะคุณออกจากเกม**
-
-### การถอนการติดตั้ง
-
-**Settings → Apps → Installed apps → AR Launcher**
+- [ดาวน์โหลดและติดตั้ง](https://ar-docs.wip-town.com/th/ar-launcher/install) หน้าต่างที่อาจเจอระหว่างติดตั้ง และการถอนการติดตั้ง
+- [เข้าเล่นเซิร์ฟเวอร์](https://ar-docs.wip-town.com/th/ar-launcher/play) หน้าต่างขอสิทธิ์ของ Windows การเชื่อมต่อ และการอัปเดต
+- [แก้ปัญหา](https://ar-docs.wip-town.com/th/ar-launcher/troubleshooting) ทุกหน้าต่างที่ลันเชอร์แจ้งปัญหา และวิธีแก้
+- [ส่งไฟล์ log ให้ทีมงาน](https://ar-docs.wip-town.com/th/ar-launcher/send-log)
 
 ### ติดต่อทีมงาน
 
-ก่อนติดต่อ ลองหาหน้าต่างที่เจอใน[หน้าแก้ปัญหาของคู่มือ](https://ar-docs.wip-town.com/th/ar-launcher/troubleshooting) ถ้ายังไม่หาย ให้[ส่งไฟล์ log](https://ar-docs.wip-town.com/th/ar-launcher/send-log) ให้ทีมงานด้วย
-
-ติดต่อทีมงาน AR Team พร้อมแจ้งเลขเวอร์ชันที่อยู่ข้างโลโก้ด้านบนของลันเชอร์
-
-ถ้าลันเชอร์แจ้งว่าบัญชีของคุณถูกระงับการใช้ AR Launcher ให้ติดต่อผู้ดูแลเซิร์ฟเวอร์ที่คุณเล่นอยู่
+ถ้าทำตามคู่มือแล้วยังไม่ได้ ให้ติดต่อทีมงาน AR Team พร้อม[ไฟล์ log](https://ar-docs.wip-town.com/th/ar-launcher/send-log)และเลขเวอร์ชันของลันเชอร์
 
 ## English
 
-### Requirements
+It runs on Windows 10 or 11, and needs GTA V, FiveM and Steam installed first. See the
+[requirements](https://ar-docs.wip-town.com/en/ar-launcher#requirements).
 
-|            |                                                     |
-| ---------- | --------------------------------------------------- |
-| **System** | Windows 10 or 11                                    |
-| **Steam**  | Open and signed in                                  |
-| **Game**   | GTA V and FiveM installed, and opened at least once |
+### Guide
 
-### Installing
+The full guide is on [AR Team Docs](https://ar-docs.wip-town.com/en/ar-launcher).
 
-Open the file you downloaded. **Installing does not need administrator rights.**
-
-1. Windows shows **“Open File - Security Warning”**. Press **Run**. Windows shows this for every
-   program downloaded from the internet, not only this one.
-2. The installer asks **“Who should this application be installed for?”** Leave it on **Only for
-   me**, which is already selected. The other option installs it for every account on the computer
-   and needs administrator rights.
-3. When it finishes, the launcher opens and Windows asks for permission. Press **Yes** (see
-   **Administrator rights** below).
-
-### After installing
-
-- **Keep the launcher open while you play.** If it is closed, crashes or loses its connection, the
-  server kicks you out of the game.
-- **Join with the Connect button in the launcher.** Press **Connect** and let the launcher open the
-  game. Do not start FiveM yourself.
-- **You only install it once.** The launcher updates itself, so there is no need to come back here.
-
-<details>
-<summary><b>If nothing happens when you open the file</b></summary>
-
-<br>
-
-The file is not broken. It is usually one of these two:
-
-- **The download has not finished.** Wait until your browser says it is done, then open it again.
-- **The warning window is behind another window.** Check your taskbar before opening the file again.
-  Opening it twice does not help.
-
-</details>
-
-<details>
-<summary><b>If Windows says “Windows protected your PC”</b></summary>
-
-<br>
-
-Windows shows this because it does not know this installer yet, not because anything is wrong with
-it. Choose **More info**, then **Run anyway**.
-
-Only do this for a file you downloaded from this page or from ar-launcher.wip-town.com. If it came
-from anywhere else, delete it and download it here.
-
-</details>
-
-### Administrator rights
-
-**Every time the launcher opens, Windows asks for permission. Press Yes.**
-
-The permission is for the anti-cheat, not for the launcher. The anti-cheat that protects the servers
-needs administrator rights, so the launcher starts a small helper that gets them and runs the
-anti-cheat. **The launcher and the game do not get these rights.** FiveM starts the same way as when
-you open it yourself.
-
-The window shows **Publisher: Unknown**. That is normal for this program. Press **Yes** only if you
-installed it from this page or from ar-launcher.wip-town.com.
-
-If you press **No**, the launcher still opens, but the anti-cheat cannot start. Servers that check
-for it will not let you in when you press **Connect**, and the launcher tells you why (see below).
-
-<details>
-<summary><b>If the launcher says the anti-cheat is not running</b></summary>
-
-<br>
-
-The message tells you which of five problems it is, and each has its own fix:
-
-- **Your antivirus blocked it.** Open your antivirus's protection history (in Windows Security:
-  **Virus & threat protection → Protection history**), allow the most recent blocked item, then
-  press **Try again**.
-- **A file it needs is missing.** Install the launcher again with the button at the top of this
-  page. That puts the file back.
-- **Windows has not given it permission.** If a Windows permission window is still open (look for
-  the flashing icon on the taskbar), press **Yes** and try again. If not, close the launcher, open
-  it again, and press **Yes** when Windows asks.
-- **Your Windows account is not an administrator.** Enter the password of an administrator
-  account on this PC when Windows asks, then press **Try again**. If you do not know the password,
-  sign in to Windows with an administrator account, or ask the owner of this PC.
-- **This PC does not let your account ask for permission.** Sign in to Windows with an
-  administrator account on this PC, or ask the owner of this PC.
-
-If none of that helps, send AR Team a screenshot of the message. Do not turn your antivirus off.
-
-</details>
-
-<details>
-<summary><b>If the launcher says it could not join this server yet</b></summary>
-
-<br>
-
-The message tells you which of two problems it is:
-
-- **The launcher could not find FiveM.** Open FiveM yourself once, wait for its main screen, then
-  close it and press **Try again**. This also happens after FiveM's files were deleted or reset (for
-  example by a guide to clearing FiveM's cache), because FiveM only sets them up again when it opens.
-- **The launcher could not set the game up for this server.** If FiveM is still downloading or
-  updating, let it finish, then press **Try again**. If it still fails, send AR Team a screenshot of
-  the message.
-
-</details>
-
-<details>
-<summary><b>If the launcher closes your game</b></summary>
-
-<br>
-
-Some servers require the game to run in pure mode, or FiveM to be on a particular update channel
-(Release, Beta or Latest), and the launcher sets both up when it opens the game. If FiveM is started
-any other way after you press **Connect** (by yourself, or from a shortcut), or is not on the server's
-channel, the launcher closes it and tells you why.
-
-Press **Connect** in the launcher again and let it open the game. If FiveM is updating, let it
-finish. If it keeps happening, restart your computer and try again, or contact AR Team.
-
-If FiveM shows an error saying *"This application should be launched directly from the shell or a web
-browser"*, it has just switched to the update channel the server requires. Close FiveM's error window
-and press **Try again** in the launcher.
-
-</details>
-
-### Updates
-
-The launcher updates itself in the background, and downloads only what changed.
-
-When a new version is required to play, the launcher updates before it lets you join. If you are
-already in a game, you keep playing: **an update never kicks you out of a game.**
-
-### Uninstalling
-
-**Settings → Apps → Installed apps → AR Launcher.**
+- [Download and install](https://ar-docs.wip-town.com/en/ar-launcher/install): the prompts you may
+  see while installing, and how to uninstall.
+- [Joining a server](https://ar-docs.wip-town.com/en/ar-launcher/play): the Windows permission
+  prompt, connecting, and updates.
+- [Troubleshooting](https://ar-docs.wip-town.com/en/ar-launcher/troubleshooting): every message the
+  launcher shows when something goes wrong, and how to fix it.
+- [Send your log file](https://ar-docs.wip-town.com/en/ar-launcher/send-log)
 
 ### Support
 
-Before you contact us, look for the message you saw on the
-[troubleshooting page of the guide](https://ar-docs.wip-town.com/en/ar-launcher/troubleshooting). If
-it does not help, [send your log files](https://ar-docs.wip-town.com/en/ar-launcher/send-log) to the
-team as well.
-
-Contact AR Team, and include the version number shown next to the logo at the top of the launcher.
-
-If the launcher says your account is suspended from AR Launcher, contact the staff of the server you
-play on.
+If the guide does not solve it, contact AR Team with your
+[log files](https://ar-docs.wip-town.com/en/ar-launcher/send-log) and the launcher's version number.
 
 ---
 
