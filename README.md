@@ -39,13 +39,13 @@ The official download and auto-update channel
 > in it.
 
 > [!NOTE]
-> **ไม่เกี่ยวข้องกับ Cfx.re หรือ FiveM** AR Launcher เป็นโปรแกรมที่ AR Team ทำขึ้นเองเพื่อใช้กับเซิร์ฟเวอร์ของทีม
-> <br>**Not affiliated with Cfx.re or FiveM.** AR Launcher is an independent program that AR Team makes
+> **ไม่เกี่ยวข้องกับ Cfx.re, FiveM หรือ RedM** AR Launcher เป็นโปรแกรมที่ AR Team ทำขึ้นเองเพื่อใช้กับเซิร์ฟเวอร์ของทีม
+> <br>**Not affiliated with Cfx.re, FiveM or RedM.** AR Launcher is an independent program that AR Team makes
 > for its own servers.
 
 ## ภาษาไทย
 
-ใช้กับ Windows 10 หรือ 11 และต้องติดตั้ง GTA V, FiveM และ Steam ไว้ก่อน ดูรายละเอียดที่[สิ่งที่ต้องมี](https://ar-docs.wip-town.com/th/ar-launcher#requirements)
+ใช้กับ Windows 10 หรือ 11 และต้องติดตั้ง GTA V, FiveM และ Steam ไว้ก่อน (เซิร์ฟเวอร์ RedM ใช้ Red Dead Redemption 2 กับ RedM แทน GTA V กับ FiveM) ดูรายละเอียดที่[สิ่งที่ต้องมี](https://ar-docs.wip-town.com/th/ar-launcher#requirements)
 
 ### คู่มือ
 
@@ -62,8 +62,8 @@ The official download and auto-update channel
 
 ## English
 
-It runs on Windows 10 or 11, and needs GTA V, FiveM and Steam installed first. See the
-[requirements](https://ar-docs.wip-town.com/en/ar-launcher#requirements).
+It runs on Windows 10 or 11, and needs GTA V, FiveM and Steam installed first (Red Dead Redemption 2
+and RedM in place of GTA V and FiveM for a RedM server). See the [requirements](https://ar-docs.wip-town.com/en/ar-launcher#requirements).
 
 ### Guide
 
