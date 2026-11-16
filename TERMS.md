@@ -2,7 +2,7 @@
 
 **ภาษาไทย** · **[English](#ar-launcher-terms-of-use)**
 
-ปรับปรุงล่าสุด 4 พฤศจิกายน 2026
+ปรับปรุงล่าสุด 17 พฤศจิกายน 2026
 
 > ข้อตกลงที่มีผลคือฉบับที่คุณกดยอมรับในลันเชอร์ หน้านี้เป็นสำเนาไว้อ่าน
 
@@ -41,13 +41,13 @@
 - ลันเชอร์ขอสิทธิ์ผู้ดูแลระบบของ Windows ผ่านหน้าต่าง UAC หากไม่อนุญาต คุณอาจเข้าเซิร์ฟเวอร์ไม่ได้
 - หากระบบตรวจสอบทำงานได้ไม่ครบถ้วน หรือคุณปิดลันเชอร์ขณะเล่น คุณอาจถูกตัดออกจากเซิร์ฟเวอร์ทันที
 
-เพื่อให้เกมเป็นไปตามข้อกำหนดของเซิร์ฟเวอร์ ลันเชอร์อาจปรับการตั้งค่าบางรายการของเกม FiveM และ Windows บนเครื่องของคุณ บางรายการมีผลต่อไปจนกว่าจะถูกเปลี่ยนอีกครั้ง และลันเชอร์อาจปิดเกมที่เริ่มด้วยการตั้งค่าที่ไม่เป็นไปตามข้อกำหนด
+เพื่อให้เกมเป็นไปตามข้อกำหนดของเซิร์ฟเวอร์ ลันเชอร์อาจปรับการตั้งค่าบางรายการของเกม FiveM หรือ RedM และ Windows บนเครื่องของคุณ บางรายการมีผลต่อไปจนกว่าจะถูกเปลี่ยนอีกครั้ง และลันเชอร์อาจปิดเกมที่เริ่มด้วยการตั้งค่าที่ไม่เป็นไปตามข้อกำหนด
 
 เราไม่เปิดเผยวิธีการตรวจสอบ เกณฑ์การตัดสิน หรือรายละเอียดทางเทคนิคของระบบ เพื่อไม่ให้ถูกนำไปใช้หลบเลี่ยง
 
 ## การดูหน้าจอเกมแบบสด
 
-ผู้ดูแลที่ได้รับสิทธิ์สามารถดูภาพเกม FiveM ของคุณแบบสดได้ขณะที่คุณอยู่ในเซิร์ฟเวอร์ เพื่อตรวจสอบการเล่นและการโกง ลันเชอร์จะแสดงแถบแจ้งเตือนที่ปิดไม่ได้ตลอดช่วงที่มีการดู
+ผู้ดูแลที่ได้รับสิทธิ์สามารถดูภาพเกม FiveM หรือ RedM ของคุณแบบสดได้ขณะที่คุณอยู่ในเซิร์ฟเวอร์ เพื่อตรวจสอบการเล่นและการโกง ลันเชอร์จะแสดงแถบแจ้งเตือนที่ปิดไม่ได้ตลอดช่วงที่มีการดู
 
 มาตรการนี้เป็นเงื่อนไขของการเล่นบนเซิร์ฟเวอร์ที่ใช้ระบบของเรา จึงไม่มีตัวเลือกให้ปฏิเสธเป็นรายครั้ง รายละเอียดอยู่ในนโยบายความเป็นส่วนตัว
 
@@ -77,7 +77,7 @@ AR Team จัดการข้อมูลส่วนบุคคลตาม
 
 **[ภาษาไทย](#ข้อตกลงการใช้งาน-ar-launcher)** · **English**
 
-Last updated 4 November 2026
+Last updated 17 November 2026
 
 > The Terms in force are the version you accept in the Launcher. This page is a copy to read.
 
@@ -116,13 +116,13 @@ Players required to use the Launcher must join servers through it. When you join
 - The Launcher requests Windows administrator rights through a UAC prompt. If you decline, you may be unable to join
 - If the verification system cannot run fully, or you close the Launcher while playing, you may be removed from the server immediately
 
-To keep the game within a server's requirements, the Launcher may adjust some FiveM and Windows settings on your computer. Some of these stay in effect until changed again, and the Launcher may close a game started with settings that do not meet the requirements.
+To keep the game within a server's requirements, the Launcher may adjust some FiveM or RedM and Windows settings on your computer. Some of these stay in effect until changed again, and the Launcher may close a game started with settings that do not meet the requirements.
 
 We do not disclose how verification works, the criteria behind its decisions, or the technical details of the system, so that they cannot be used to evade it.
 
 ## Live Game-Screen Viewing
 
-An authorised administrator may view your FiveM game live while you are on a server, to review play and investigate cheating. The Launcher shows a notice that cannot be dismissed for as long as a view is open.
+An authorised administrator may view your FiveM or RedM game live while you are on a server, to review play and investigate cheating. The Launcher shows a notice that cannot be dismissed for as long as a view is open.
 
 This is a condition of playing on servers using our system, so you cannot refuse an individual view. Details are in the Privacy Notice.
 

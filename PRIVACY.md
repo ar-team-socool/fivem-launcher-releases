@@ -2,13 +2,13 @@
 
 **ภาษาไทย** · **[English](#ar-launcher-privacy-notice)**
 
-ปรับปรุงล่าสุด 4 พฤศจิกายน 2026
+ปรับปรุงล่าสุด 17 พฤศจิกายน 2026
 
 ## ผู้ควบคุมข้อมูลและขอบเขต
 
 AR Team ("เรา") เป็นผู้ควบคุมข้อมูลส่วนบุคคลของ AR Launcher และระบบที่เกี่ยวข้อง ติดต่อเรื่องข้อมูลส่วนบุคคลได้ผ่าน Discord ของชุมชน AR Team
 
-นโยบายนี้ใช้กับผู้ที่ใช้ AR Launcher และผู้ที่เชื่อมต่อเซิร์ฟเวอร์ FiveM ที่ใช้ระบบของเรา แม้จะไม่เคยเปิด AR Launcher ก็ตาม
+นโยบายนี้ใช้กับผู้ที่ใช้ AR Launcher และผู้ที่เชื่อมต่อเซิร์ฟเวอร์ FiveM หรือ RedM ที่ใช้ระบบของเรา แม้จะไม่เคยเปิด AR Launcher ก็ตาม
 
 นโยบายนี้เป็นการแจ้งให้ทราบว่าเราจัดการข้อมูลอย่างไร แยกจากข้อตกลงการใช้งาน และไม่ครอบคลุมข้อมูลที่ Steam, Cfx.re, Discord หรือตัวเซิร์ฟเวอร์เกมเก็บเอง เช่น ข้อมูลตัวละครในเซิร์ฟเวอร์
 
@@ -17,7 +17,7 @@ AR Team ("เรา") เป็นผู้ควบคุมข้อมูล�
 เราเก็บข้อมูลต่อไปนี้เมื่อคุณใช้ลันเชอร์หรือเชื่อมต่อเซิร์ฟเวอร์
 
 - **บัญชี Steam:** SteamID64 ชื่อที่แสดง และรูปโปรไฟล์
-- **ตัวระบุบัญชีจาก FiveM:** ตัวระบุบัญชีที่เซิร์ฟเวอร์ FiveM ส่งมาเมื่อคุณเชื่อมต่อ ซึ่งอาจรวมถึงตัวระบุของบริการอื่น แม้คุณไม่ได้ใช้ลันเชอร์
+- **ตัวระบุบัญชีจาก FiveM หรือ RedM:** ตัวระบุบัญชีที่เซิร์ฟเวอร์ FiveM หรือ RedM ส่งมาเมื่อคุณเชื่อมต่อ ซึ่งอาจรวมถึงตัวระบุของบริการอื่น แม้คุณไม่ได้ใช้ลันเชอร์
 - **ข้อมูลการเชื่อมต่อ:** IP address ข้อมูลระบุการติดตั้งลันเชอร์ และเวอร์ชันลันเชอร์
 - **ตัวระบุอุปกรณ์:** ค่าที่ใช้แยกแยะเครื่องคอมพิวเตอร์ ลันเชอร์แปลงเป็นค่าแฮชก่อนส่ง เราจึงไม่ได้รับและไม่เก็บค่าจริง
 - **ประวัติการใช้งาน:** การเข้าสู่ระบบ การเข้าและออกจากเซิร์ฟเวอร์ เซิร์ฟเวอร์ที่เคยเข้า การถูกปฏิเสธ เตะ หรือระงับ และเหตุการณ์ที่ระบบพบว่าผิดปกติ
@@ -52,7 +52,7 @@ AR Team ("เรา") เป็นผู้ควบคุมข้อมูล�
 
 - ขอสิทธิ์ผู้ดูแลระบบของ Windows ผ่านหน้าต่าง UAC เพื่อให้ระบบตรวจสอบทำงานได้
 - ตรวจสอบบัญชี Steam ที่ใช้งานอยู่ในเครื่อง
-- ปรับการตั้งค่าบางรายการของเกมและ FiveM ให้ตรงกับข้อกำหนดของเซิร์ฟเวอร์ บางรายการมีผลต่อไปจนกว่าจะถูกเปลี่ยนอีกครั้ง
+- ปรับการตั้งค่าบางรายการของเกมและ FiveM หรือ RedM ให้ตรงกับข้อกำหนดของเซิร์ฟเวอร์ บางรายการมีผลต่อไปจนกว่าจะถูกเปลี่ยนอีกครั้ง
 - เปิดบริการของ Windows ที่ระบบต้องใช้กลับเป็นค่าเริ่มต้น หากถูกปิดไว้
 - ปิดเกมที่เริ่มด้วยการตั้งค่าที่ไม่เป็นไปตามข้อกำหนดของเซิร์ฟเวอร์
 - เก็บข้อมูลที่ลันเชอร์ต้องใช้ เช่น ข้อมูลการเข้าสู่ระบบ และบันทึกการทำงานไว้ในเครื่องของคุณ บันทึกการทำงานนี้ไม่ถูกส่งให้เรา
@@ -71,7 +71,7 @@ AR Team ("เรา") เป็นผู้ควบคุมข้อมูล�
 
 ## การดูหน้าจอเกมแบบสด
 
-ผู้ดูแลที่ได้รับสิทธิ์สามารถดูภาพเกม FiveM ของคุณแบบสดได้เฉพาะขณะที่คุณอยู่ในเซิร์ฟเวอร์ เพื่อตรวจสอบการเล่นและการโกง
+ผู้ดูแลที่ได้รับสิทธิ์สามารถดูภาพเกม FiveM หรือ RedM ของคุณแบบสดได้เฉพาะขณะที่คุณอยู่ในเซิร์ฟเวอร์ เพื่อตรวจสอบการเล่นและการโกง
 
 - ส่งเฉพาะภาพเกมและเฉพาะช่วงที่มีคนดู ไม่ส่งเสียง
 - สิ่งที่แสดงในเกม เช่น แชตหรือโทรศัพท์ในเกม จะถูกส่งไปด้วย
@@ -86,7 +86,7 @@ AR Team ("เรา") เป็นผู้ควบคุมข้อมูล�
 ข้อมูลของคุณเข้าถึงได้เฉพาะผู้ที่จำเป็นต่อหน้าที่ และผู้ดูแลเฉพาะเซิร์ฟเวอร์เห็นเฉพาะข้อมูลที่เกี่ยวกับเซิร์ฟเวอร์ของตน
 
 - **ทีมงาน AR Team และผู้ดูแลเซิร์ฟเวอร์:** ข้อมูลตามสิทธิ์และหน้าที่ เพื่อดูแลบริการ พัฒนาและตรวจสอบระบบ และบังคับใช้กฎ
-- **เซิร์ฟเวอร์เกม FiveM:** ผลว่าคุณเข้าได้หรือไม่ และคำสั่งให้ออกจากเซิร์ฟเวอร์ เพื่อบังคับใช้กฎ
+- **เซิร์ฟเวอร์เกม FiveM และ RedM:** ผลว่าคุณเข้าได้หรือไม่ และคำสั่งให้ออกจากเซิร์ฟเวอร์ เพื่อบังคับใช้กฎ
 - **Valve (Steam):** SteamID เพื่อยืนยันการเข้าสู่ระบบและอ่านโปรไฟล์
 - **Cloudflare:** IP address และข้อมูลที่ผ่านการเชื่อมต่อ เพื่อส่งต่อและป้องกันทราฟฟิก
 - **GitHub:** IP address ขณะดาวน์โหลด เพื่อแจกไฟล์ลันเชอร์และอัปเดต
@@ -111,7 +111,7 @@ AR Team ("เรา") เป็นผู้ควบคุมข้อมูล�
 ### ยังไม่มีกำหนดลบอัตโนมัติ
 
 - **บัญชี ข้อมูลที่ผูกกับบัญชี และเซิร์ฟเวอร์ที่เคยเข้า**
-- **ตัวระบุบัญชีจาก FiveM**
+- **ตัวระบุบัญชีจาก FiveM หรือ RedM**
 - **ข้อมูลการตรวจสอบการโกงที่เก็บเป็นหลักฐาน**
 - **การระงับบัญชี** รวมประวัติการระงับที่ยกเลิกแล้ว
 - **การยอมรับข้อตกลง**
@@ -152,13 +152,13 @@ AR Team ("เรา") เป็นผู้ควบคุมข้อมูล�
 
 **[ภาษาไทย](#นโยบายความเป็นส่วนตัว-ar-launcher)** · **English**
 
-Last updated 4 November 2026
+Last updated 17 November 2026
 
 ## Data Controller and Scope
 
 AR Team ("we") is the data controller for AR Launcher and its related systems. Contact us about personal data through the AR Team community Discord.
 
-This notice applies to AR Launcher users and to anyone who connects to a FiveM server using our system, even if they never opened AR Launcher.
+This notice applies to AR Launcher users and to anyone who connects to a FiveM or RedM server using our system, even if they never opened AR Launcher.
 
 It explains how we handle data and is separate from the Terms of Use. It does not cover data held by Steam, Cfx.re, Discord or the game server itself, such as character data.
 
@@ -167,7 +167,7 @@ It explains how we handle data and is separate from the Terms of Use. It does no
 We collect the following when you use the Launcher or connect to a server.
 
 - **Steam account:** SteamID64, display name and profile picture
-- **FiveM account identifiers:** the account identifiers the FiveM server sends when you connect, which may include identifiers from other services, even if you do not use the Launcher
+- **FiveM or RedM account identifiers:** the account identifiers the FiveM or RedM server sends when you connect, which may include identifiers from other services, even if you do not use the Launcher
 - **Connection data:** IP address, an identifier for your Launcher installation, and Launcher version
 - **Device identifiers:** values that tell one computer from another. The Launcher turns them into hashes before sending, so we never receive or store the values themselves
 - **Usage history:** sign-ins, joining and leaving servers, servers joined, refusals, kicks and suspensions, and events the system finds abnormal
@@ -202,7 +202,7 @@ The Launcher changes your computer only as needed to join servers and to run the
 
 - It requests Windows administrator rights through a UAC prompt, which the verification system needs
 - It checks which Steam account is active on your computer
-- It adjusts some game and FiveM settings to match server requirements. Some of these stay in effect until changed again
+- It adjusts some game and FiveM or RedM settings to match server requirements. Some of these stay in effect until changed again
 - It returns a Windows service the system needs to its default if it was disabled
 - It closes a game started with settings that do not meet the server's requirements
 - It keeps the data it needs, such as sign-in data, and a log on your computer. The log is not sent to us
@@ -221,7 +221,7 @@ We disclose the types of data involved, but not how detection works, the criteri
 
 ## Live Game-Screen Viewing
 
-An authorised administrator may view your FiveM game live, only while you are on a server, to review play and investigate cheating.
+An authorised administrator may view your FiveM or RedM game live, only while you are on a server, to review play and investigate cheating.
 
 - Only the game picture is sent, and only while someone is watching. No audio is sent
 - Anything shown in the game, such as in-game chat or phone screens, is included
@@ -236,7 +236,7 @@ You can end a view by closing the Launcher, which may remove you from the server
 Access is limited to those who need it, and administrators of a single server see only data about that server.
 
 - **AR Team staff and server administrators:** data according to their permissions and roles, to run the service, develop and review our systems, and enforce rules
-- **FiveM game servers:** whether you may join, and instructions to remove you, to enforce rules
+- **FiveM and RedM game servers:** whether you may join, and instructions to remove you, to enforce rules
 - **Valve (Steam):** SteamID, to confirm sign-in and read your profile
 - **Cloudflare:** IP address and connection data, to route and protect traffic
 - **GitHub:** IP address when downloading, to distribute the Launcher and updates
@@ -261,7 +261,7 @@ Some data is deleted automatically after the periods below. Data with no automat
 ### No automatic deletion yet
 
 - **Account, data attached to it, and servers joined**
-- **FiveM account identifiers**
+- **FiveM or RedM account identifiers**
 - **Anti-cheat data kept as evidence**
 - **Account suspensions**, including lifted ones
 - **Terms acceptance**
