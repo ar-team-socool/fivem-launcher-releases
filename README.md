@@ -13,7 +13,7 @@ The official download and auto-update channel
 
 ---
 
-[![Latest release](https://img.shields.io/github/v/release/ar-team-socool/fivem-launcher-releases?style=for-the-badge&label=latest&labelColor=0d1117&color=2f81f7)](https://github.com/ar-team-socool/fivem-launcher-releases/releases/latest) [![Windows 10 or 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0d1117?style=for-the-badge)](https://ar-docs.wip-town.com/th/ar-launcher#requirements) [![Downloads](https://img.shields.io/github/downloads/ar-team-socool/fivem-launcher-releases/total?style=for-the-badge&label=downloads&labelColor=0d1117&color=3fb950)](https://github.com/ar-team-socool/fivem-launcher-releases/releases)
+[![Latest release](https://img.shields.io/github/v/release/ar-team-socool/fivem-launcher-releases?style=for-the-badge&label=latest&labelColor=0d1117&color=2f81f7)](https://github.com/ar-team-socool/fivem-launcher-releases/releases/latest) [![Windows 10 or 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0d1117?style=for-the-badge)](https://ar-docs.wip-town.com/th/ar-launcher#requirements) [![Downloads](https://img.shields.io/github/downloads/ar-team-socool/fivem-launcher-releases/total?style=for-the-badge&label=downloads%20%26%20updates&labelColor=0d1117&color=3fb950)](https://github.com/ar-team-socool/fivem-launcher-releases/releases)
 
 <br>
 
